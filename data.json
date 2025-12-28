@@ -1,11 +1,16 @@
 [
   {
-    "name": "sherifa",
-    "email": "shery@gmail.com",
-    "pass": "12345"
+    "id": 1,
+    "email": "newuser@gmail.com",
+    "name": "sh",
+    "password": "1234556",
+    "age": "25"
   },
   {
-    "email": "newuser@gmail.com",
-    "password": "9999"
+    "id": 2,
+    "email": "newuser2@gmail.com",
+    "name": "mm",
+    "password": "123456",
+    "age": "30"
   }
 ]
